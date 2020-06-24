@@ -52,7 +52,7 @@ header li {
 }
 
 header .search-icon input {
-    height: 20px;
+    /* height: 20px; */
     width: 300px;
     border-radius: 20px;
     padding: 4px;
