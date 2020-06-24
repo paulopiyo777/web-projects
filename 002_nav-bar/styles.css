@@ -1,6 +1,7 @@
 /* import Montserrat font from Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
+/* default settings that override all classes */
 * {
     box-sizing: border-box;
     margin: 0;
